@@ -41,6 +41,6 @@ Scenario modelling and assumptions handling
 Structured, auditable calculations for business use cases
 
 # Tools & Technologies
-Power BI
-Microsoft Excel
+Power BI, 
+Microsoft Excel, 
 Data Grip (SQL,PGSQL)
