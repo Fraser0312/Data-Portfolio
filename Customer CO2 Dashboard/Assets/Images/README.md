@@ -1,5 +1,3 @@
-<img width="1399" height="756" alt="image" src="https://github.com/user-attachments/assets/18427d2b-9f54-4bf8-b506-d8ced0250230" /># Customer CO2 Dashboard Page Pictures
-
 Please see atttached images of each page of the CO2 dashboard
 
 1. Summary
