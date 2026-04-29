@@ -1,1 +1,3 @@
+# Summary Tab
 
+This page provides an overview of customer performance, combining key KPIs with trend and comparative analysis. It highlights year-on-year performance across sales, gross profit, and order volumes, giving a quick view of growth and overall account health. Users can filter by sales type and account to analyse performance across different revenue streams. The monthly trend chart compares current versus prior year sales and margin, enabling identification of seasonality and performance shifts. Additional insights are provided through the product mix breakdown, showing the proportion of core versus non-core sales, helping users understand revenue composition and identify opportunities to optimise product strategy.
