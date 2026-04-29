@@ -1,4 +1,4 @@
-Please see atttached images of each page of the CO2 dashboard
+#Customer CO2 Dashboard
 
 1. Summary
 
@@ -11,3 +11,11 @@ This page analyses the customer’s electric vehicle performance, focusing on CO
 3. Delivery Savings
 
 This page analyses how changing delivery frequency impacts CO₂ emissions. It compares actual performance against simulated scenarios such as weekly and twice-weekly deliveries to identify potential carbon reduction opportunities. The table allows us to drill down into site-level performance and identify where delivery frequency changes could have the biggest impact. The bottom area chart shows how emissions would trend over time under different delivery strategies, helping identify consistent savings opportunities
+
+Questions Answered by this dashboard:
+
+How is customer performance trending year-on-year across sales, profit, and order volumes?
+Which product categories are driving growth, and which are contributing to decline?
+What are the key products influencing revenue and changes in demand?
+How does product mix (e.g. core vs non-core) impact overall performance?
+Where are the biggest opportunities to improve sales, profitability, and customer strategy?
