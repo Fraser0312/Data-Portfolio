@@ -15,8 +15,12 @@ This page analyses how changing delivery frequency impacts CO₂ emissions. It c
 Questions Answered by this dashboard:
 
 •	How is customer performance trending year-on-year across sales, profit, and order volumes?
+
 •	Which product categories are driving growth, and which are contributing to decline?
+
 •	What are the key products influencing revenue and changes in demand?
+
 •	How does product mix (e.g. core vs non-core) impact overall performance?
+
 •	Where are the biggest opportunities to improve sales, profitability, and customer strategy?
 
