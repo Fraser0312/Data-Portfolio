@@ -40,20 +40,7 @@ Cost and pricing analysis
 Scenario modelling and assumptions handling
 Structured, auditable calculations for business use cases
 
-# Purpose of This Portfolio
-
-This portfolio demonstrates my ability to:
-
-Translate business problems into analytical solutions
-Build clear and effective data visualisations
-Combine financial and operational data for deeper insights
-Deliver tools that support both strategic and day-to-day decision-making
-
 # Tools & Technologies
 Power BI
 Microsoft Excel
 Data Grip (SQL,PGSQL)
-
-# Notes
-Dashboard files are provided as .pbit templates where applicable
-Screenshots are included to preview outputs without requiring downloads
