@@ -2,8 +2,6 @@
 
 This repository showcases a collection of Business Intelligence dashboards and analytical models developed to support data-driven decision-making across sales, customer performance, and sustainability.
 
-# Purpose of This Portfolio
-
 This portfolio demonstrates my ability to:
 
 Translate business problems into analytical solutions
