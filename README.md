@@ -1,13 +1,57 @@
-# Example BI Dashboards
+#📊 Data Analytics & BI Portfolio
 
-Please see attached dashboards I've recreated on Power BI, our Data & BI team don't use this anymore and use an in-house app created by my manager which is very similar to BI. To see dashboard please select the .pbit folder and then select raw (unable to publish and share as our team no longer has BI licenece).
+This repository showcases a collection of Business Intelligence dashboards and analytical models developed to support data-driven decision-making across sales, customer performance, and sustainability.
 
-# Customer-CO2-Dashboard
+#🎯 Purpose of This Portfolio
 
-1. Purpose:
-This dashboard was built to provide a comprehensive and interactive view of customer-related CO₂ emissions, enabling users to monitor trends, compare performance across segments, and identify key emission drivers. It supports data-driven decision-making by uncovering patterns, highlighting areas for improvement, and helping stakeholders track progress toward sustainability and carbon reduction goals.
+This portfolio demonstrates my ability to:
 
-# Customer-Reporting-Dashboard
+Translate business problems into analytical solutions
+Build clear and effective data visualisations
+Combine financial and operational data for deeper insights
+Deliver tools that support both strategic and day-to-day decision-making
+🛠 Tools & Technologies
+Power BI
+Microsoft Excel
+(Optional: SQL / Python if applicable)
 
-1.Purpose:
-The purpose of this customer reporting dashboard is to present key customer data points like sales, volume, profit, and successful/decling products through intuitive visuals and segmentation breakdowns, making complex data easy to understand at a glance. These visuals enable users to quickly identify patterns in customer acquisition, retention, and engagement, compare performance across segments, and drill down into specific areas for deeper analysis and more informed decision-making.
+#📌 Notes
+Dashboard files are provided as .pbit templates where applicable
+Screenshots are included to preview outputs without requiring downloads
+
+The projects are organised into two main areas:
+
+#📁 BI Dashboards
+
+A set of interactive dashboards built to transform complex datasets into clear, actionable insights. These dashboards focus on:
+
+Customer performance and segmentation
+Sales, volume, and profitability analysis
+Sustainability metrics, including CO₂ emissions tracking
+Trend analysis and KPI monitoring
+
+Each dashboard is designed with a strong emphasis on usability, enabling stakeholders to quickly identify patterns, compare performance, and drill down into key business drivers.
+
+#📁 Costing Models
+
+A collection of structured Excel-based models used to support financial analysis and decision-making. These models demonstrate:
+
+Cost and pricing analysis
+Scenario modelling and assumptions handling
+Structured, auditable calculations for business use cases
+
+#🎯 Purpose of This Portfolio
+
+This portfolio demonstrates my ability to:
+
+Translate business problems into analytical solutions
+Build clear and effective data visualisations
+Combine financial and operational data for deeper insights
+Deliver tools that support both strategic and day-to-day decision-making
+🛠 Tools & Technologies
+Power BI
+Microsoft Excel
+(Optional: SQL / Python if applicable)
+📌 Notes
+Dashboard files are provided as .pbit templates where applicable
+Screenshots are included to preview outputs without requiring downloads
