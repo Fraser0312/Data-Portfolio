@@ -8,10 +8,11 @@ Translate business problems into analytical solutions
 Build clear and effective data visualisations
 Combine financial and operational data for deeper insights
 Deliver tools that support both strategic and day-to-day decision-making
+
 🛠 Tools & Technologies
 Power BI
 Microsoft Excel
-(Optional: SQL / Python if applicable)
+Datagrip/Azure (SQL/PGSQL)
 
 # Notes
 Dashboard files are provided as .pbit templates where applicable
